@@ -26,8 +26,8 @@ The graph is built using the NetworkX library, with real station names and coord
 
 1. Clone the repository or download the files:
 
-```bash
-git clone https://github.com/algal12/Data-Structure-Algorithms-Assignment-2
+``bash
+git clone https://github.com/algal12/Data-Structure-Algorithms-Assignment-2.git
 
 
 To run the simulation, simply execute the Python script:
