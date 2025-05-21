@@ -1,0 +1,7 @@
+Libraries required for this project
+
+pandas
+networkx
+
+
+Future dependencies can be added here if needed.
